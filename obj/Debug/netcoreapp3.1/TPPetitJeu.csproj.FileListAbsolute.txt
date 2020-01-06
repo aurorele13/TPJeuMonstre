@@ -1,0 +1,11 @@
+C:\Users\Adminl\Desktop\Aurore LE Revisions\TPPetitJeu\TPPetitJeu\bin\Debug\netcoreapp3.1\TPPetitJeu.exe
+C:\Users\Adminl\Desktop\Aurore LE Revisions\TPPetitJeu\TPPetitJeu\bin\Debug\netcoreapp3.1\TPPetitJeu.deps.json
+C:\Users\Adminl\Desktop\Aurore LE Revisions\TPPetitJeu\TPPetitJeu\bin\Debug\netcoreapp3.1\TPPetitJeu.runtimeconfig.json
+C:\Users\Adminl\Desktop\Aurore LE Revisions\TPPetitJeu\TPPetitJeu\bin\Debug\netcoreapp3.1\TPPetitJeu.runtimeconfig.dev.json
+C:\Users\Adminl\Desktop\Aurore LE Revisions\TPPetitJeu\TPPetitJeu\bin\Debug\netcoreapp3.1\TPPetitJeu.dll
+C:\Users\Adminl\Desktop\Aurore LE Revisions\TPPetitJeu\TPPetitJeu\bin\Debug\netcoreapp3.1\TPPetitJeu.pdb
+C:\Users\Adminl\Desktop\Aurore LE Revisions\TPPetitJeu\TPPetitJeu\obj\Debug\netcoreapp3.1\TPPetitJeu.csprojAssemblyReference.cache
+C:\Users\Adminl\Desktop\Aurore LE Revisions\TPPetitJeu\TPPetitJeu\obj\Debug\netcoreapp3.1\TPPetitJeu.AssemblyInfoInputs.cache
+C:\Users\Adminl\Desktop\Aurore LE Revisions\TPPetitJeu\TPPetitJeu\obj\Debug\netcoreapp3.1\TPPetitJeu.AssemblyInfo.cs
+C:\Users\Adminl\Desktop\Aurore LE Revisions\TPPetitJeu\TPPetitJeu\obj\Debug\netcoreapp3.1\TPPetitJeu.dll
+C:\Users\Adminl\Desktop\Aurore LE Revisions\TPPetitJeu\TPPetitJeu\obj\Debug\netcoreapp3.1\TPPetitJeu.pdb
